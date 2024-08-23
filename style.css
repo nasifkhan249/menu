@@ -1,0 +1,14 @@
+.center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.fa-bars{
+    font-size: 40px;
+}
+#cross {
+    font-size: 40px;
+    display: none;
+}
